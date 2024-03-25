@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = My Application
+title = multiplex
 
 # (str) Package name
 package.name = Multiplex
@@ -68,14 +68,14 @@ orientation = portrait
 osx.python_version = 3.7.6
 
 # Kivy version to use
-osx.kivy_version = 1.9.1
+osx.kivy_version = 2.17.2
 
 #
 # Android specific
 #
 
 # (bool) Indicate if the application should be fullscreen or not
-fullscreen = 0
+fullscreen = 1
 
 # (string) Presplash background color (for new android toolchain)
 # Supported formats are: #RRGGBB #AARRGGBB or one of the following names:
